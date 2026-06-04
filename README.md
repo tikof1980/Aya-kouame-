@@ -1,1 +1,2 @@
-![Aya Kouamé](Aya.png)
+
+![Aya Kouamé](aya.png)
